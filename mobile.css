@@ -1,0 +1,1069 @@
+@media screen and (max-width: 1699px) {
+    .banner_heading h1 {
+        font-size: 50px;
+    }
+    .banner_sub_title {
+        font-size: 18px;
+    }
+    .banner_left_wapper_inner {
+        max-width: 80%;
+    }
+    section.banner_section .wapper_flex {
+        margin: 80px 0;
+    }
+}
+@media screen and (max-width: 1679px) {}
+@media screen and (max-width: 1599px) {
+    .section_sub_heading h5 {
+        font-size: 17px;
+    }
+    .section_head h2 {
+        font-size: 33px;
+        color: black;
+    }
+    .course_highlights_right_points_icon img {
+        max-width: 70%;
+        margin: 0 auto;
+    }
+    .career__python_heading h4 {
+        font-size: 33px;
+    }
+    .career__python_disc {
+        font-size: 16px;
+    }
+
+}
+@media screen and (max-width: 1549px) {
+    .row.device_img.justify-content-md-center {
+        max-width: 55%;
+    }
+    .howwork_section .work_box {
+        padding: 35px 22px;
+    }
+    .video_section_top_wapper_count_wapper_inner {
+        padding: 27px;
+    }
+    .video_section_top_wapper_count h4 {
+        font-size: 45px;
+    }
+    .video_section_top_wapper_disc {
+        font-size: 18px;
+    }
+    section.logo_sider-section {
+        padding: 35px 0;
+    }
+    section {
+        padding: 65px 0;
+    }
+}
+@media screen and (max-width: 1499px) {
+    .button {
+        padding: 0.65rem 1.5rem;
+        font-size: 14px;
+    }
+    section.logo_sider-section {
+        background-color: #1e2545;
+        padding: 30px 0;
+    }
+    .course_highlights_right_disc {
+        margin-bottom: 30px;
+        font-size: 16px;
+        line-height: normal;
+    }
+    .howwork_section .work_box .work_title {
+        margin-bottom: 25px;
+    }
+    .howwork_section .work_box .work_text {
+        font-size: 15px;
+    }
+    .Instructors_disc {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    .Instructors_det_list ul li {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .Instructors_det_list ul li::before {
+        height: 22px;
+        width: 22px;
+        left: -30px;
+    }
+    .Instructors_det_list ul {
+        padding-left: 30px;
+    }
+    .accordion button {
+        font-size: 1.15rem;
+    }
+    .accordion .accordion-content p {
+        font-size: .9rem;
+        font-weight: 300;
+        margin: 1.5em 0;
+    }
+    .lets_start_wapper_main {
+        max-width: 80%;
+        margin: 0 auto;
+        margin-top: -130px;
+    }
+    .lets_start_wapper_sub_heading h5 {
+        font-size: 21px;
+    }
+    .lets_start_wapper_heading h3 {
+        font-size: 33px;
+        margin-top: 15px;
+    }
+}
+@media screen and (max-width: 1439px) {
+    .banner_heading h1 {
+        font-size: 47px;
+    }
+    .banner_heading {
+        margin-bottom: 17px;
+    }
+    .banner_disc {
+        margin-bottom: 23px;
+    }
+    section.banner_section .wapper_flex {
+        margin: 60px 0;
+    }
+    button.slick-arrow {
+        height: 37px;
+        width: 37px;
+    }
+    button.slick-arrow.slick-prev:before {
+        height: 32px;
+        width: 32px;
+    }
+    .testimonial_card_inner {
+        padding: 27px;
+    }
+    .testimonial_card_disc {
+        font-size: 15px;
+        margin-top: 12px;
+    }
+    button.slick-prev.slick-arrow {
+        top: -40px;
+        left: calc(100% - 80px);
+    }
+    .faqs_right_side_inner {
+        position: sticky;
+        top: 10px;
+    }
+    .lets_start_wapper_heading {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .lets_start_wapper_heading h3 {
+        margin-top: 5px;
+    }
+    .footer-content {
+        margin-top: 50px;
+    }
+    .lets_start_wapper_inner {
+        padding: 40px;
+        padding-bottom: 0;
+    }
+    .footer-brand h4 {
+        font-size: 22px;
+    }
+    .footer-contact h4 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .footer-contact ul li a {
+        font-size: 15px;
+    }
+    .copyright {
+        font-size: 15px;
+    }
+    .text-block-647 h3 {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 1365px) {
+    .header-center ul {
+        gap: 30px;
+    }
+    .section_head h2 {
+        font-size: 32px;
+        color: black;
+    }
+    .howwork_section .work_box {
+        padding: 25px 18px;
+    }
+    .work_title h6 {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .howwork_section .work_box .work_title {
+        margin-bottom: 18px;
+    }
+    .howwork_section .work_box .work_text {
+        font-size: 14px;
+        padding-right: 35px;
+    }
+    .why_learn_course_wapper_poi {
+        width: 80%;
+        margin-bottom: 20px;
+        padding: 28px 13px;
+    }
+    .why_learn_course_wapper_poi_meta_dis {
+        font-size: 14px;
+        line-height: normal;
+    }
+    .Instructors_disc {
+        font-size: 14px;
+    }
+    .career__python_heading h4 {
+        font-size: 30px;
+    }
+    .career__python_disc {
+        font-size: 15px;
+    }
+    .career__python_wapper_main.career__python_wapper_down .career__python_wapper_right {
+        padding-left: 60px;
+    }
+    .career__python_wapper_main {
+        margin-bottom: 80px;
+    }
+    .video_section_top_wapper_count h4 {
+        font-size: 40px;
+    }
+    .video_section_top_wapper_count_wapper_inner {
+        padding: 27px;
+    }
+}
+@media screen and (max-width: 1279px) {
+    .banner_heading h1 {
+        font-size: 41px;
+    }
+    .banner_left_wapper_inner {
+        max-width: 100%;
+    }
+    .banner_sub_title {
+        font-size: 17px;
+    }
+    .banner_disc {
+        font-size: 15px;
+    }
+    .header-center ul {
+        gap: 20px;
+    }
+    .header-center ul li a {
+        font-size: 15px;
+    }
+    .section_head h2 {
+        font-size: 29px;
+        line-height: normal;
+    }
+    .course_highlights_right_disc {
+
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .course_highlights_right_points_text {
+        max-width: 90%;
+        font-size: 15px;
+    }
+    .course_highlights_right_points_title h5 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    .howwork_section .step-box {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+        margin: 32px;
+    }
+    .howwork_section .work_box .work_text {
+        font-size: 13px;
+        padding-right: 26px;
+    }
+    .work_title img {
+        width: 100%;
+        max-width: 25%;
+    }
+    .why_learn_course_wapper_poi_inner {
+        gap: 17px;
+    }
+    .why_learn_course_wapper_poi {
+        padding: 20px 13px;
+    }
+    .Instructors_disc {
+        margin-top: 13px;
+        font-size: 13px;
+    }
+    .career__python_inner {
+        padding: 45px;
+    }
+    .career__python_icon img {
+        width: 15%;
+    }
+    .career__python_heading h4 {
+        font-size: 28px;
+    }
+    .career__python_disc {
+        font-size: 14px;
+    }
+    .career__python_heading {
+        margin-bottom: 10px;
+    }
+    .button {
+        padding: 0.55rem 1.5rem;
+        font-size: 13px;
+    }
+    button.slick-arrow {
+        height: 31px;
+        width: 31px;
+    }
+    button.slick-prev.slick-arrow {
+        top: -40px;
+        left: calc(100% - 70px);
+    }
+    .video_section_top_wapper_right {
+        font-size: 15px;
+    }
+    .video-container {
+        height: 400px;
+    }
+    .elementor-video {
+        height: 400px;
+    }
+    .video_section_top_wapper_count h4 {
+        font-size: 37px;
+    }
+    .video_section_top_wapper_disc {
+        font-size: 17px;
+    }
+    .accordion button {
+        font-size: 17px;
+    }
+    .lets_start_wapper_inner {
+        padding: 20px;
+        padding-bottom: 0;
+    }
+    .lets_start_wapper_heading h3 {
+        font-size: 28px;
+        margin-top: 15px;
+    }
+ 
+    .lets_start_wapper_main {
+        max-width: 90%;
+        margin: 0 auto;
+        margin-top: -130px;
+    }
+    .lets_start_wapper_inner {
+        padding: 30px;
+        padding-bottom: 0;
+    }
+    .footer-brand p {
+        font-size: 13px;
+        line-height: 1.6;
+    }
+    footer .logo {
+        margin-bottom: 11px;
+    }
+    .footer-brand h4 {
+        font-size: 18px;
+    }
+    .social-icons {
+        margin-top: 5px;
+    }
+    .footer-contact h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .footer-contact ul li a {
+        font-size: 14px;
+    }
+    .lets_start_wapper_inner button.button {
+        font-size: 12px;
+        padding: 7px 20px;
+    }
+    .lets_start_wapper_heading h3 {
+        font-size: 28px;
+        margin-top: 5px;
+    }
+    .lets_start_wapper_sub_heading h5 {
+        font-size: 19px;
+    }
+    section.logo_sider-section {
+        padding: 20px 0;
+    }
+    section {
+        padding: 45px 0;
+    }
+    .li_days-wrap {
+        grid-row-gap: 10px;
+    }
+    .li_days-wrap {
+        grid-row-gap: 10px;
+    }
+    .li_days-wrap {
+        grid-row-gap: 10px;
+    }
+}
+@media screen and (max-width: 1023px) {
+    .banner_heading h1 {
+        font-size: 37px;
+    }
+    .banner_disc {
+        font-size: 14px;
+    }
+    .button {
+        padding: 0.55rem 1.2rem;
+        font-size: 13px;
+    }
+    .button__icon-wrapper {
+        width: 23px;
+        height: 23px;
+    }
+    nav.header-center {
+        display: none;
+    }
+    section.banner_section .wapper_flex {
+        margin: 40px 0;
+    }
+}
+@media screen and (max-width: 991px) {
+    .section_head h2 {
+        font-size: 25px;
+        line-height: normal;
+    }
+    .section_sub_heading h5 {
+        font-size: 16px;
+    }
+    .course_highlights_right_disc {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .course_highlights_right_points_text {
+        max-width: 100%;
+        font-size: 13px;
+    }
+    .course_highlights_right_points_title h5 {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+    .course_highlights_right_points_inner {
+        margin-bottom: 17px;
+    }
+    .work_box_flex {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .howwork_section .work_box {
+        width: 48%;
+    }
+    .howwork_section .step-box {
+        width: 50px; 
+        height: 50px; 
+        font-size: 18px;
+        margin: 32px;
+    }
+    .work_title img {
+        width: 100%;
+        max-width: 19%;
+    }
+    .row.device_img.justify-content-md-center {
+        max-width: 95%;
+    }
+    .why_learn_course_wapper_poi {
+        width: 90%;
+    }
+    .why_learn_course_wapper_poi_meta_dis {
+        font-size: 13px;
+    }
+    .why_learn_course_wapper_poi_meta_title h4 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .career__python_inner {
+        padding: 35px;
+    }
+    .career__python_wapper_main.career__python_wapper_down .career__python_wapper_right {
+        padding-left: 40px;
+    }
+    .career__python_wapper_right_inner {
+        max-width: 90%;
+    }
+    .career__python_wapper_main {
+        margin-bottom: 60px;
+    }
+    .button {
+        padding: 0.45rem 1.2rem;
+        font-size: 12px;
+    }
+    .testimonial_card_inner {
+        padding: 17px;
+    }
+    .testimonial_card_disc {
+        font-size: 14px;
+        margin-top: 4px;
+        line-height: normal;
+    }
+    .testimonial_card_bottom {
+        margin-top: 10px;
+    }
+    .testimonial_card_rating i {
+        color: #ffa500;
+        font-size: 12px;
+    }
+    .testimonial_name h4 {
+        font-size: 16px;
+    }
+    .testimonial_card_main {
+        padding: 8px;
+    }
+    .video_section_top_wapper_right {
+        font-size: 14px;
+    }
+    .video-container {
+        height: 370px;
+        width: 95%;
+    }
+    .elementor-video {
+        height: 370px;
+    }
+    .video_section_top_wapper_count_wapper_inner {
+        padding: 17px;
+    }
+    .video_section_top_wapper_count h4 {
+        font-size: 33px;
+    }
+    .video_section_top_wapper_disc {
+        font-size: 15px;
+    }
+    .lets_start_wapper_inner {
+        padding: 40px;
+        padding-bottom: 0;
+    }
+    .lets_start_wapper_sub_heading h5 {
+        font-size: 17px;
+    }
+    .lets_start_wapper_heading h3 {
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .lets_start_wapper_inner button.button {
+        font-size: 12px;
+        padding: 5px 15px;
+    }
+    .lets_start_wapper_heading {
+        margin-bottom: 9px;
+    }
+    .footer-brand .logo img {
+        width: auto;
+        max-width: 70%;
+        object-fit: contain;
+    }
+    .li_sticky-wrap {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+    }
+    .li_sticky-heading {
+        position: inherit;
+    }
+   
+}
+@media screen and (max-width: 819px) {
+    .banner_sub_title {
+        font-size: 16px;
+    }
+    .banner_heading h1 {
+        font-size: 35px;
+    }
+    section.banner_section .wapper_flex {
+        margin: 30px 0;
+    }
+    section.logo_sider-section {
+        padding: 20px 0;
+    }
+    .career__python_inner {
+        padding: 25px;
+    }
+    .career__python_disc {
+        font-size: 13px;
+    }
+    .career__python_heading h4 {
+        font-size: 25px;
+    }
+    .video_section_top_wapper_right {
+        font-size: 13px;
+    }
+    .footer-brand p {
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    .lets_start_wapper_inner {
+        padding: 20px;
+        padding-bottom: 0;
+    }
+    .li_day-learn {
+        grid-row-gap: 25px;
+        width: 100%;
+    }
+    .li_days-wrap.li_stiky-2 {
+        /* background-image: linear-gradient(98deg,#0b66c2,#009ad6); */
+        top: 6rem;
+    }
+    .li_days-wrap.li_stiky-3 {
+        top: 10rem;
+    }
+    .li_days-wrap.li_stiky-4 {
+        top: 14rem;
+    }
+    .li_days-wrap.li_stiky-5 {
+        top: 18rem;
+    }
+    .li_days-wrap.li_stiky-6 {
+        top: 22rem;
+    }
+    .li_days-wrap.li_stiky-7 {
+        top: 26rem;
+    }
+    .li_day-wrap {
+        padding: 7px 20px;
+        font-size: 13px;
+    }
+    .li_days-wrap {
+        padding: 16px 17px;
+    }
+}
+@media screen and (max-width: 767px) {
+    section.banner_section .wapper_flex {
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .banner_left_wapper {
+        width: 100%;
+    }
+    .banner_right_wapper {
+        width: 100%;
+    }
+    .dotes_anim_bloack .dotes_9 {
+        width: 50px;
+        height: 50px;
+        bottom: 12%;
+        left: 20%;
+    }
+    .course_highlights_flex {
+        flex-wrap: wrap;
+    }
+    .course_highlights_left_main {
+        width: 100%;
+    }
+    .course_highlights_right_main {
+        width: 100%;
+        padding-left: 0;
+    }
+    .howwork_section .step-box {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+        margin: 32px;
+    }
+    .work_title h6 {
+        font-size: 17px;
+        line-height: normal;
+    }
+    .why_learn_course_flex {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .why_learn_course_left_main {
+        width: 100%;
+    }
+    .why_learn_course_right_ma {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        top: 0;
+    }
+    .why_learn_course_wapper_poi {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .why_learn_course_left_inner a.button {
+        width: fit-content;
+        margin: 0 auto;
+        display: flex;
+    }
+    .Instructors_flex_wapper {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .Instructors_left_main {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .Instructors_right_main {
+        width: 100%;
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .career__python_Wapper_inner {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+    .career__python_wapper_right {
+        width: 100%;
+    }
+    .career__python_wapper_left {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .career__python_wapper_main.career__python_wapper_down .career__python_Wapper_inner {
+        flex-direction: column-reverse;
+    }
+    .career__python_wapper_main.career__python_wapper_down .career__python_wapper_right {
+        padding-left: 0;
+    }
+    .career__python_disc {
+        margin-bottom: 12px;
+    }
+    .career__python_icon img {
+        width: 13%;
+    }
+    .small_container {
+        padding: 0 20px;
+    }
+    .slick-dots button {
+        width: 14px !important;
+        height: 14px !important;
+    }
+    .slick-dots li {
+        margin: 0 0.25rem;
+        width: fit-content;
+    }
+    .video_section_top_wapper_flex {
+        flex-wrap: wrap;
+    }
+    .video_section_top_wapper_left {
+        width: 100%;
+    }
+    .video_section_top_wapper_right {
+        width: 100%;
+        margin-top: 13px;
+    }
+    .video-container {
+        height: 280px;
+        width: 100%;
+    }
+    .elementor-video {
+        height: 280px;
+    }
+    .play-button {
+        width: 50px;
+        height: 50px;
+    }
+    .play-icon {
+        border-left: 15px solid white;
+        border-top: 9px solid transparent;
+        border-bottom: 9px solid transparent;
+    }
+    .video_section_top_wapper_count {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+    .video_section_top_wapper_count_wapper_main {
+        width: 47%;
+        text-align: center;
+    }
+    .faqs_flex_wapper {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .faqs_right_side {
+        width: 100%;
+        display: none;
+    }
+    .faqs_left_side {
+        width: 100%;
+    }
+    .lets_start_wapper_left {
+        width: 40%;
+    }
+    .lets_start_wapper_sub_heading h5 {
+        font-size: 15px;
+    }
+    .lets_start_wapper_heading h3 {
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    .lets_start_wapper_inner {
+        padding: 25px;
+        padding-bottom: 0;
+    }
+    .footer-brand {
+        max-width: 70%;
+    }
+    .social-icons a, .footer-contact i {
+        width: 27px;
+        height: 27px;
+        
+        line-height: 1.7;
+
+    }
+    .footer-contact {
+        margin-top: 30px;
+    }
+    .footer-brand .logo img {
+        max-width: 60%;
+    }
+}
+@media screen and (max-width: 574px) {
+    header a.button {
+        font-size: 0;
+        padding: 10px;
+        gap: 0;
+    }
+    #stickyHeader {
+        padding: 10px 14px;
+    }
+    .header-left img {
+        height: 40px;
+    }
+    .container {
+        padding: 0 20px;
+    }
+    .howwork_section .work_box {
+        width: 90%;
+    }
+    .why_learn_course_wapper_poi {
+        width: 90%;
+        margin-bottom: 17px;
+    }
+    .career__python_Wapper_inner {
+        gap: 40px;
+    }
+    .career__python_wapper_main {
+        margin-bottom: 40px;
+    }
+    .career__python_main {
+        border-radius: 20px;
+    }
+    .career__python_wapper_left {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .testimonial_card_inner {
+        padding: 35px;
+    }
+    .testimonial_card_top_left {
+        width: 16%;
+    }
+    .video_section_wapper {
+        margin: 30px 0;
+    }
+    .video_section_top_wapper_count h4 {
+        font-size: 30px;
+    }
+    .video_section_top_wapper_disc {
+        font-size: 14px;
+    }
+    .video_section_top_wapper_count_wapper_inner {
+        border-radius: 15px;
+    }
+    .lets_start_wapper_inner {
+        padding: 25px;
+
+        flex-wrap: wrap;
+    }
+    
+    .lets_start_wapper_left {
+        width: 50%;
+        margin: 0 auto;
+        margin-top: -70px;
+        margin-bottom: 10px;
+    }
+    .lets_start_wapper_sub_heading h5 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .lets_start_wapper_heading h3 {
+        font-size: 22px;
+        margin-top: 5px;
+        text-align: center;
+    }
+    .lets_start_wapper_inner button.button {
+        display: flex;
+        width: auto;
+        margin: 0 auto;
+    }
+    .footer-content {
+        margin-top: 40px;
+    }
+    .footer-brand {
+        max-width: 90%;
+    }
+    .footer-contact {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .copyright {
+        font-size: 13px;
+    }
+    section {
+        padding: 35px 0;
+    }   
+    section.faqs_section {
+        margin-bottom: 120px;
+    }
+    .testimonial__col_main_flex.slick-initialized.slick-slider.slick-dotted {
+        margin-bottom: 0;
+    }
+    .Instructors_left_inner.get_certificat_img {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+    .li_sticky-wrap {
+        grid-column-gap: 70px;
+        grid-row-gap: 78px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .dotes_anim_bloack .dots {
+        width: 40px !important;
+        height: 40px !important;
+    }
+    .banner_heading h1 {
+        font-size: 32px;
+    }
+    .banner_right_wapper {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .header-container {
+        padding: 0;
+    }
+    #stickyHeader.fade-in {
+        animation: slideDown 1.0s ease-out;
+    }
+    .course_highlights_right_points_icon img {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .why_learn_course_wapper_poi {
+        width: 100%;
+        margin-bottom: 17px;
+    }
+    .career__python_heading h4 {
+        font-size: 23px;
+    }
+    .career__python_icon img {
+        width: 16%;
+    }
+    .career__python_icon {
+        margin-bottom: 10px;
+    }
+    .career__python_disc {
+        font-size: 12px;
+    }
+    .button {
+        padding: 0.35rem 1rem;
+        font-size: 12px;
+    }
+    .career__python_inner {
+        padding: 20px;
+    }
+    .header-left img {
+        height: 35px;
+    }
+    .testimonial_card_inner {
+        padding: 20px;
+    }
+    .video_section_top_wapper_right {
+        font-size: 12px;
+    }
+    .video-container {
+        height: 210px;
+        width: 100%;
+    }
+    .elementor-video {
+        height: 210px;
+    }
+    .lets_start_wapper_left {
+        width: 60%;
+    }
+    .lets_start_wapper_inner {
+        padding: 20px;
+        border-radius: 21px;
+    }
+
+}
+@media screen and (max-width: 374px) {
+    .banner_sub_title {
+        padding-left: 30px;
+        font-size: 15px;
+    }
+    .banner_sub_title::before {
+        width: 20px;
+    }
+   
+    .banner_heading h1 {
+        font-size: 27px;
+    }
+    .banner_disc {
+        font-size: 13px;
+        line-height: normal;
+    }
+    .banner_heading {
+        margin-bottom: 13px;
+    }
+    .dotes_anim_bloack .dots {
+        width: 20px !important;
+        height: 50px !important;
+    }
+    .howwork_section .work_box {
+        width: 100%;
+    }
+    .video_section_top_wapper_count h4 {
+        font-size: 28px;
+    }
+    .video_section_top_wapper_disc {
+        font-size: 12px;
+    }
+    .video_section_top_wapper_count {
+        flex-wrap: wrap;
+        gap: 9px;
+    }
+    .video_section_wapper {
+        margin: 20px 0;
+    }
+    
+}
+@media screen and (max-width: 319px) {}
+
+
+
+
+.header-center ul li a:hover::after {width: 100%;}
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .header-center {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
